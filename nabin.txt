@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is from master.
+=======
+this is from nabin.
+>>>>>>> nabin
