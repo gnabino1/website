@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Master is the hero of every living heart
+=======
+nabin is also hero
+>>>>>>> nabin
