@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world ffrom mastter.
+=======
+hello world this is from nabin.
+>>>>>>> nabin

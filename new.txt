@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi this master.
+=======
+hi this nabin from nabin.
+>>>>>>> nabin
