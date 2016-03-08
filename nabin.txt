@@ -3,3 +3,5 @@ This is from master.
 =======
 this is from nabin.
 >>>>>>> nabin
+
+Nayaran solti added.
